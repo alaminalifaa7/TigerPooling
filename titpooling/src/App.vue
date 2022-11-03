@@ -7,16 +7,18 @@
      </v-app-bar>
     <v-main>
      <choose-pool/>
+     <pool-form />
     </v-main>
   </v-app>
 </template>
 
 <script>
 import ChoosePool from "./components/ChoosePool.vue"
+import PoolForm from "./components/PoolForm.vue"
 
 export default {
   components: {
-    ChoosePool
+    ChoosePool,PoolForm
   },
   setup() {
     // ...

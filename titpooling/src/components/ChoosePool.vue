@@ -20,8 +20,8 @@
                 <div
                   class="text-h3 flex-grow-1 text-center"
                 >
-                  <!-- {{ isSelected ? 'Offering Pool' : 'Requesting Pool' }} -->
-                  dfdsfds
+                  {{ isSelected ? 'Offering Pool' : 'Requesting Pool' }}
+            
                 </div>
               </v-scroll-y-transition>
             </v-card>
