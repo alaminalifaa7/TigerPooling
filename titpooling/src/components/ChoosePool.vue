@@ -21,7 +21,7 @@
                   class="text-h3 flex-grow-1 text-center"
                 >
                   <!-- {{ isSelected ? 'Offering Pool' : 'Requesting Pool' }} -->
-                  {dfdsfds}
+                  dfdsfds
                 </div>
               </v-scroll-y-transition>
             </v-card>
